@@ -1,7 +1,9 @@
 ```text
 root@cyrexdxrk:~$ whoami
 cyrexdxrk
+```
 
+```text
 root@cyrexdxrk:~$ cat about.txt
 name      : cyrexdxrk
 mission   : automate everything annoying
@@ -10,7 +12,7 @@ status    : [ONLINE]
 
 ```text
 root@cyrexdxrk:~$ ls ./projects
-vpngate-сlient/         # VPN Gate client
+vpngate-auto/         # VPN Gate client with auto-reconnect and GUI
 more-coming-soon/     # ...
 ```
 
