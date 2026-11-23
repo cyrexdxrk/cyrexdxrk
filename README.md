@@ -20,6 +20,8 @@ more-coming-soon/     # ...
 root@cyrexdxrk:~$ contact --open
 telegram : t.me/cyrexdxrk
 steam    : steamcommunity.com/id/cyrexdxrk
+```
 
+```text
 root@cyrexdxrk:~$ _
 ```
